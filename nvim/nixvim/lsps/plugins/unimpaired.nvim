@@ -1,0 +1,5 @@
+{
+  'tpope/vim-unimpaired',
+  lazy = false,  -- Load the plugin immediately
+}
+
